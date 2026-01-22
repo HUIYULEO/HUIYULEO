@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🔭 B.Sc. at  [Zhejiang University](https://www.zju.edu.cn/), M.Sc. at [Technical University of Denmark](https://www.dtu.dk/), Major in Autonomous Systems(AI and Robotics)
-* 🌱 I’m currently learning Data Analysis, LangGraph, RAG
+* 👩‍💻 B.Sc. at  [Zhejiang University](https://www.zju.edu.cn/), M.Sc. at [Technical University of Denmark](https://www.dtu.dk/), Major in Autonomous Systems(AI and Robotics)
+* 👀 I’m interested in Software Engineering and Robotics, AI 
+* 🌱 I’m currently learning Data Analysis, LangGraph, RAG and building different projects with code agent
 * 📫 Email me at：luhy0629@outlook.com

@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 * 👩‍💻 B.Sc. at  [Zhejiang University](https://www.zju.edu.cn/), M.Sc. at [Technical University of Denmark](https://www.dtu.dk/), Major in Autonomous Systems(AI and Robotics)
 * 👀 I’m interested in Data Science and Robotics, AI 
-* 🌱 I’m currently learning Data Analysis, LangGraph, RAG and building different projects with code agent(Claude code, codex)
+* 🌱 I’m currently building different Agentic or Data analysis projects with code agent and AI tools
 * 📫 Email me at：luhy0629@outlook.com
